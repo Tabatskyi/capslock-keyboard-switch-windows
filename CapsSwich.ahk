@@ -6,7 +6,7 @@
 
     if (duration < 200)
     {
-        Send("{Blind}{Ctrl Down}{Shift Down}{Shift Up}{Ctrl Up}")
+        Send("{Blind}{LWin Down}{Space Down}{Space Up}{LWin Up}")
     }
     else 
     {
